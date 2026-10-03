@@ -1,10 +1,10 @@
-# 🎓 Student Performance Prediction
+#  Student Performance Prediction
 
 > An end-to-end Machine Learning project to predict student pass/fail outcomes using Python, built as part of an AI Internship.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project builds a complete machine learning pipeline on a dataset of **40,000 student records** to predict whether a student will **Pass or Fail** based on academic and behavioral features.
 
@@ -18,7 +18,7 @@ The project follows a structured data science workflow:
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 | Feature | Description |
 |---|---|
@@ -51,7 +51,7 @@ The project follows a structured data science workflow:
 
 ---
 
-## 📊 Project Workflow
+##  Project Workflow
 
 ### Phase 1 — Setup & First Look
 - Loaded dataset using Pandas
@@ -107,7 +107,7 @@ Evaluated best model (Random Forest) using:
 
 ---
 
-## 🔍 Key Finding
+##  Key Finding
 
 > Through EDA, it was discovered that **no feature showed a meaningful correlation** with the Pass/Fail outcome. This was confirmed by all three models achieving ~50% accuracy (equivalent to random guessing on a balanced binary target).
 
@@ -116,7 +116,7 @@ This highlights the most important lesson of the project:
 
 ---
 
-## 📈 Results Summary
+## Results Summary
 
 - Dataset was balanced (~50% Pass, ~50% Fail)
 - All numeric features (Study Hours, Attendance, Previous Grades) showed near-zero correlation with Pass/Fail
@@ -125,7 +125,7 @@ This highlights the most important lesson of the project:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone this repository:
 ```bash
@@ -143,7 +143,7 @@ Student_Performance_Prediction_Project.ipynb
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Student_Performance_Prediction/
@@ -155,13 +155,13 @@ Student_Performance_Prediction/
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Vanitha**
 AI Internship Project | 2026
 
 ---
 
-## 📝 License
+## License
 
 This project is open source and available for educational purposes.
